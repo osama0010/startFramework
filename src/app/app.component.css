@@ -1,0 +1,5 @@
+.x{
+    margin-top: 78px;
+    min-height: calc(100vh - 100px);
+    background-color: #1abc9c;
+}
